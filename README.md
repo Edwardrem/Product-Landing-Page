@@ -1,2 +1,4 @@
-# Product-Landing-Page
-an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
+# FCC: Product Landing Page
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Edwardrem/pen/MWYQbVa](https://codepen.io/Edwardrem/pen/MWYQbVa).
+
